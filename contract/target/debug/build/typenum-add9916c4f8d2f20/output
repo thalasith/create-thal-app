@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/boristsao/Documents/Projects/create-thal-app/contract/target/debug/build/typenum-add9916c4f8d2f20/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/boristsao/Documents/Projects/create-thal-app/contract/target/debug/build/typenum-add9916c4f8d2f20/out/op.rs
